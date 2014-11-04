@@ -7,7 +7,7 @@ This is an [Alfred.app](http://www.alfredapp.com/) workflow so you can easily se
 
 Installation
 ============
-1. [Download the workflow](https://github.com/tyke/alfred-slack-workflow/blob/master/slack.alfredworkflow)
+1. [Download the workflow](https://github.com/tyke/alfred-slack-workflow/raw/master/slack.alfredworkflow)
 2. Double-click to install
 
 Getting started
