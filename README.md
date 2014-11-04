@@ -1,7 +1,7 @@
 Alfred Workflow: Slack message
 ==============================
 
-This is an [Alfred.app](http://www.alfredapp.com/) workflow so you can easily send messages to your team on slack [Slack](https://slack.com).
+This is an [Alfred.app](http://www.alfredapp.com/) workflow so you can easily send messages to your team on [slack](https://slack.com).
 
 ![Screenshot](http://f.cl.ly/items/38250E3D1H0T352t0m07/Image%202014-11-04%20at%2011.26.04%20AM.png)
 
