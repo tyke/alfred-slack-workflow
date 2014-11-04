@@ -5,6 +5,11 @@ This is an [Alfred.app](http://www.alfredapp.com/) workflow so you can easily se
 
 ![Screenshot](http://f.cl.ly/items/38250E3D1H0T352t0m07/Image%202014-11-04%20at%2011.26.04%20AM.png)
 
+Installation
+============
+1. [Download the workflow](https://github.com/tyke/alfred-slack-workflow/blob/master/slack.alfredworkflow)
+2. Double-click to install
+
 Getting started
 ===============
 1. Generate a [Slack API Token](https://api.slack.com/#auth)
